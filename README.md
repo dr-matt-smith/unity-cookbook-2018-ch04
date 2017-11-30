@@ -10,3 +10,13 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-03-create-audiosource-at-run-time
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-03b-extension-class
+
+to be added to chapter:
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
+
+- 
