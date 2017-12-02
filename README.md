@@ -23,6 +23,6 @@ to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_finish_before_replaying
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_wait_for_end_before_destroy_self
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_wait_to_finish_before_destroy_self
 
 
