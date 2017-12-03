@@ -27,3 +27,4 @@ to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_reverb_zones_simulate_tunnel
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_mixer_volume_control.git
