@@ -25,4 +25,5 @@ to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_wait_to_finish_before_destroy_self
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_reverb_zones_simulate_tunnel
 
