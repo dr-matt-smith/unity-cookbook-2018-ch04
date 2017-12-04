@@ -15,6 +15,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-05_finish_before_replaying
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-06_wait_to_finish_before_destroy_self
+
 to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
@@ -22,8 +24,6 @@ to be added to chapter:
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_wait_to_finish_before_destroy_self
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_reverb_zones_simulate_tunnel
 
