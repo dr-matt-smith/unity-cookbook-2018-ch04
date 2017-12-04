@@ -11,6 +11,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-03b-extension-class
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-04_play_after_delay
+
 to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
@@ -18,8 +20,6 @@ to be added to chapter:
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_play_after_delay
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_finish_before_replaying
 
