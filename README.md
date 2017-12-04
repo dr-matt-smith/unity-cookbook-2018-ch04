@@ -23,6 +23,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-09_reverb_zones_simulate_tunnel
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-10_mixer_volume_control
+
 to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
@@ -30,8 +32,6 @@ to be added to chapter:
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_mixer_volume_control.git
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_dynamic_soundtrack_snapshots
 
