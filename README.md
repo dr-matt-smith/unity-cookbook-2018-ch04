@@ -17,6 +17,10 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-06_wait_to_finish_before_destroy_self
 
+
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-08_match_pitch_to_animation_speed
+
 to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
