@@ -27,6 +27,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-11_dynamic_soundtrack_snapshots
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-12_ducking
+
 to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
@@ -35,4 +37,3 @@ to be added to chapter:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_ducking
