@@ -7,4 +7,24 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-02-multiple-audio-sources
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-02b-extension-class
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-03-create-audiosource-at-run-time
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-03b-extension-class
+
+to be added to chapter:
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome_simple
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_metronome
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_loop_scheduler
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_play_after_delay
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_finish_before_replaying
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_wait_to_finish_before_destroy_self
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_reverb_zones_simulate_tunnel
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-0x_mixer_volume_control.git
