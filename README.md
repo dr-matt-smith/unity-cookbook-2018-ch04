@@ -31,6 +31,6 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-12_ducking
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-13_loop_scheduler
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-13_audio_visualisation
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-14_audio_visualisation
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch04-14_loop_scheduler
